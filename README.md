@@ -3,7 +3,7 @@
 
 1- Uber data analysis
   
-  https://github.com/nnmm7787/SDA-CODING/tree/main/uber_nyc_data_
+ https://github.com/nnmm7787/Uber-data-analysis/blob/main/README.md
   
   
   
